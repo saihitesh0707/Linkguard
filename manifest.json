@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "LinkGuard",
+  "version": "1.0",
+  "description": "AI-powered protection that detects malicious links before you open them.",
+  "permissions": [
+    "webNavigation",
+    "storage",
+    "tabs",
+    "webRequest"
+  ],
+  "host_permissions": [
+    "https://safebrowsing.googleapis.com/*",
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
