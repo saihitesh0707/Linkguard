@@ -28,7 +28,11 @@ Checks in 1-2 seconds →
 - Gemini AI API
 
 ## 🚀 Status
-🔨 **Currently under active development** — built as part of Hushh Hackathon 2025
+✅ **Version 1.0 Complete** — Built for Hushh Hackathon 2025
+
+## 📹 Demo Video
+[▶️ Watch LinkGuard in action](https://youtube.com/shorts/wINC8LxRhoI?si=soLT15wG0ImorZD3)
+
 
 ## 👨‍💻 Developer
 **C. Sai Hitesh** — Cybersecurity Student, Dhanalakshmi Srinivasan University
