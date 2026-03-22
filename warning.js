@@ -1,6 +1,10 @@
-chrome.storage.local.get("dangerousURL", (data) => {
+chrome.storage.local.get(["dangerousURL", "aiReason"], (data) => {
   document.getElementById("dangerous-url").textContent =
     data.dangerousURL || "Unknown URL";
+  
+  if (data.aiReason) {
+    document.getElementById("ai-reason").textContent = data.aiReason;
+  }
 });
 
 document.getElementById("btn-back").addEventListener("click", () => {
