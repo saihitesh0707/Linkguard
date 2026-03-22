@@ -1,6 +1,6 @@
 # 🛡️ LinkGuard — AI-Powered Threat Detection Extension
 
-> A browser extension that silently protects you from malicious links and dangerous APKs — no technical knowledge needed.
+> A browser extension that silently protects you from malicious links and dangerous APKs —  no technical knowledge needed.
 
 ## 🚨 The Problem
 Every day, millions of people unknowingly click phishing links, download malware, or install spyware-infected APKs — simply because they didn't know it was dangerous.
